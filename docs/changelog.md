@@ -7,6 +7,7 @@
 
   - Client
     - Ability to specify a custom folder for update files. @mayli
+    - Basic Auth support
   
   - PyUpdater
     - Arm support
